@@ -1,4 +1,4 @@
-from add_data_to_database import add_employee, update_employee_face, remove_employee, add_multiple_employees
+from database_functions import add_employee, update_employee_face, remove_employee, add_multiple_employees
 
 def main():
     while True:
